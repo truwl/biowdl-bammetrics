@@ -11,15 +11,15 @@ workflowStatus: Released
 workflowLanguage: wdl
 graphStatus: Incomplete
 workflowFile: bammetrics.wdl
-repoName: truwl-biowdl-bammetrics
+repoName: biowdl-bammetrics
 gitTag: 2.2.0
 inputsTemplate: inputs.json
 executable: true
 current: true
 codeRepository:
-  URL: https://github.com/truwl/biowdl-rna-seq
+  URL: https://github.com/truwl/biowdl-bammetrics
 WebSite:
     - URL: https://biowdl.github.io/RNA-seq/develop/index.html
-      name: BioWDL-RNA-seq
+      name: BioWDL-Bammetrics
 
 
